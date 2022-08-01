@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "sujbooksearch",
   "version": "1.0.0",
   "description": "[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Book-Search-Engine?style=plastic)](https://opensource.org/licenses/MIT)",
   "main": "server/server.js",
